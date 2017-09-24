@@ -1,0 +1,15 @@
+
+HTML, BODY	{  height:100%; width:100%;
+		   margin:0px; padding:0px;}
+
+BODY	{  background-color:yellow; }
+
+HEADER	{  background-color:red; width:100%; height:15%; }
+
+DIV#content	{  font-family:trebuchet; font-size:14pt;
+		   min-height:70%; }
+
+DIV#content *:first-child	{  margin-top:0px; }
+
+FOOTER	{  background-color:blue; width:100%;
+	   display:block; height:15%;}
